@@ -17,7 +17,7 @@
         "push": {}
     },
     "messages": [
-        { "push": "/index.html" },
-        { "notification": "/index.html" }
+        { "push": "/dashboard" },
+        { "notification": "/dashboard" }
     ] 
 }
